@@ -1,0 +1,17 @@
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\bin\Debug\net8.0-windows\pract15_v3.exe
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\bin\Debug\net8.0-windows\pract15_v3.deps.json
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\bin\Debug\net8.0-windows\pract15_v3.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\bin\Debug\net8.0-windows\pract15_v3.dll
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\bin\Debug\net8.0-windows\pract15_v3.pdb
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.Form1.resources
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.sourcelink.json
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.dll
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\refint\pract15_v3.dll
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.pdb
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\pract15_v3.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract15_v3\pract15_v3\obj\Debug\net8.0-windows\ref\pract15_v3.dll
