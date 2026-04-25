@@ -1,7 +1,0 @@
-C:\Ходжаева ПР-21\pract15_4\pract15_4\bin\Debug\pract15_4.exe.config
-C:\Ходжаева ПР-21\pract15_4\pract15_4\bin\Debug\pract15_4.exe
-C:\Ходжаева ПР-21\pract15_4\pract15_4\bin\Debug\pract15_4.pdb
-C:\Ходжаева ПР-21\pract15_4\pract15_4\obj\Debug\pract15_4.csproj.AssemblyReference.cache
-C:\Ходжаева ПР-21\pract15_4\pract15_4\obj\Debug\pract15_4.csproj.CoreCompileInputs.cache
-C:\Ходжаева ПР-21\pract15_4\pract15_4\obj\Debug\pract15_4.exe
-C:\Ходжаева ПР-21\pract15_4\pract15_4\obj\Debug\pract15_4.pdb
